@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite it. Contact the author for questions or collaboration."
+title: "Helical / Spiral Vessel Mesh Generator"
+version: "0.1.0"
+date-released: "2025-09-26"
+authors:
+  - family-names: "Liu"
+    given-names: "Leo"
+    affiliation: "FAMU-FSU College of Engineering"
+    email: "leo.liu@eng.famu.fsu.edu"
+identifier:
+  type: "doi"
+  value: "TODO:add-DOI-here"
+license: "MIT"
+url: "https://github.com/your/repo"
+abstract: |
+  Small utility to generate helical and spiral artery mesh models (OBJ and ASCII STL).
