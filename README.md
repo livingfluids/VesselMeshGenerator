@@ -65,7 +65,6 @@ s.visualize()
 ## Notes and tips
 - Outputs are written to the current working directory by default. Use absolute paths or create an `output/` folder for organization.
 - The `mode` parameter accepts `helical` (constant radius) or `spiral` (radius changes along revolutions). `radius_variation` is the total radial change across the full helix; `taper_ratio` optionally reduces the cross-section radius along the helix.
-- If you want caps (watertight mesh) or inner surface support, I can add optional flags for that.
 
 ## License
 - This project is licensed under the MIT License — see the `LICENSE` file for full terms. If you use this code in research, please cite the project (`CITATION.cff`) and contact the authors: Leo Liu et al. <leo.liu@eng.famu.fsu.edu>.
